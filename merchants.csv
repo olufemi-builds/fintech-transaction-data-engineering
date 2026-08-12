@@ -1,0 +1,151 @@
+merchant_id,merchant_name,merchant_category,state,status
+MER00001,Merchant 001,Healthcare,Enugu,Active
+MER00002,Merchant 002,Utilities,Delta,Active
+MER00003,Merchant 003,Utilities,Abuja,Active
+MER00004,Merchant 004,Retail,Abuja,Active
+MER00005,Merchant 005,Retail,Delta,Active
+MER00006,Merchant 006,Food,Kano,Active
+MER00007,Merchant 007,Digital Services,Abuja,Active
+MER00008,Merchant 008,Utilities,Abuja,Active
+MER00009,Merchant 009,Travel,Delta,Inactive
+MER00010,Merchant 010,Digital Services,Lagos,Active
+MER00011,Merchant 011,Healthcare,Lagos,Inactive
+MER00012,Merchant 012,Retail,Kaduna,Active
+MER00013,Merchant 013,Food,Lagos,Active
+MER00014,Merchant 014,Retail,Oyo,Active
+MER00015,Merchant 015,Utilities,Delta,Active
+MER00016,Merchant 016,Utilities,Rivers,Active
+MER00017,Merchant 017,Food,Kaduna,Active
+MER00018,Merchant 018,Utilities,Rivers,Active
+MER00019,Merchant 019,Utilities,Lagos,Active
+MER00020,Merchant 020,Utilities,Oyo,Active
+MER00021,Merchant 021,Travel,Enugu,Inactive
+MER00022,Merchant 022,Food,Lagos,Inactive
+MER00023,Merchant 023,Travel,Kano,Active
+MER00024,Merchant 024,Utilities,Abuja,Active
+MER00025,Merchant 025,Food,Abuja,Active
+MER00026,Merchant 026,Food,Delta,Active
+MER00027,Merchant 027,Retail,Kano,Active
+MER00028,Merchant 028,Digital Services,Kano,Active
+MER00029,Merchant 029,Digital Services,Abuja,Active
+MER00030,Merchant 030,Food,Rivers,Inactive
+MER00031,Merchant 031,Food,Kaduna,Active
+MER00032,Merchant 032,Healthcare,Lagos,Active
+MER00033,Merchant 033,Travel,Oyo,Inactive
+MER00034,Merchant 034,Travel,Kano,Active
+MER00035,Merchant 035,Travel,Kano,Active
+MER00036,Merchant 036,Retail,Lagos,Inactive
+MER00037,Merchant 037,Digital Services,Enugu,Inactive
+MER00038,Merchant 038,Utilities,Kano,Active
+MER00039,Merchant 039,Utilities,Oyo,Active
+MER00040,Merchant 040,Digital Services,Enugu,Active
+MER00041,Merchant 041,Food,Delta,Active
+MER00042,Merchant 042,Food,Rivers,Active
+MER00043,Merchant 043,Utilities,Abuja,Active
+MER00044,Merchant 044,Utilities,Abuja,Active
+MER00045,Merchant 045,Healthcare,Kano,Active
+MER00046,Merchant 046,Travel,Lagos,Active
+MER00047,Merchant 047,Retail,Rivers,Active
+MER00048,Merchant 048,Digital Services,Lagos,Active
+MER00049,Merchant 049,Travel,Lagos,Active
+MER00050,Merchant 050,Healthcare,Rivers,Active
+MER00051,Merchant 051,Travel,Kaduna,Active
+MER00052,Merchant 052,Food,Delta,Active
+MER00053,Merchant 053,Healthcare,Lagos,Active
+MER00054,Merchant 054,Digital Services,Oyo,Active
+MER00055,Merchant 055,Utilities,Rivers,Active
+MER00056,Merchant 056,Healthcare,Kano,Active
+MER00057,Merchant 057,Digital Services,Delta,Active
+MER00058,Merchant 058,Food,Kaduna,Active
+MER00059,Merchant 059,Retail,Kano,Inactive
+MER00060,Merchant 060,Utilities,Lagos,Active
+MER00061,Merchant 061,Utilities,Lagos,Active
+MER00062,Merchant 062,Retail,Oyo,Active
+MER00063,Merchant 063,Healthcare,Kaduna,Active
+MER00064,Merchant 064,Digital Services,Abuja,Active
+MER00065,Merchant 065,Food,Oyo,Active
+MER00066,Merchant 066,Food,Kaduna,Active
+MER00067,Merchant 067,Healthcare,Enugu,Active
+MER00068,Merchant 068,Travel,Rivers,Active
+MER00069,Merchant 069,Travel,Delta,Active
+MER00070,Merchant 070,Food,Kaduna,Active
+MER00071,Merchant 071,Utilities,Kaduna,Active
+MER00072,Merchant 072,Retail,Enugu,Active
+MER00073,Merchant 073,Food,Oyo,Active
+MER00074,Merchant 074,Healthcare,Enugu,Active
+MER00075,Merchant 075,Retail,Delta,Active
+MER00076,Merchant 076,Utilities,Delta,Active
+MER00077,Merchant 077,Utilities,Kano,Active
+MER00078,Merchant 078,Healthcare,Enugu,Active
+MER00079,Merchant 079,Food,Delta,Inactive
+MER00080,Merchant 080,Food,Enugu,Active
+MER00081,Merchant 081,Food,Delta,Active
+MER00082,Merchant 082,Utilities,Enugu,Active
+MER00083,Merchant 083,Healthcare,Rivers,Active
+MER00084,Merchant 084,Retail,Kaduna,Active
+MER00085,Merchant 085,Retail,Rivers,Active
+MER00086,Merchant 086,Healthcare,Enugu,Active
+MER00087,Merchant 087,Food,Enugu,Active
+MER00088,Merchant 088,Utilities,Delta,Active
+MER00089,Merchant 089,Travel,Kano,Active
+MER00090,Merchant 090,Retail,Rivers,Active
+MER00091,Merchant 091,Healthcare,Oyo,Active
+MER00092,Merchant 092,Healthcare,Kaduna,Active
+MER00093,Merchant 093,Utilities,Kano,Active
+MER00094,Merchant 094,Travel,Kano,Active
+MER00095,Merchant 095,Utilities,Kaduna,Inactive
+MER00096,Merchant 096,Travel,Enugu,Active
+MER00097,Merchant 097,Utilities,Oyo,Active
+MER00098,Merchant 098,Utilities,Rivers,Active
+MER00099,Merchant 099,Travel,Kaduna,Active
+MER00100,Merchant 100,Digital Services,Enugu,Active
+MER00101,Merchant 101,Healthcare,Enugu,Active
+MER00102,Merchant 102,Utilities,Enugu,Active
+MER00103,Merchant 103,Digital Services,Enugu,Active
+MER00104,Merchant 104,Utilities,Delta,Active
+MER00105,Merchant 105,Digital Services,Kano,Active
+MER00106,Merchant 106,Utilities,Oyo,Active
+MER00107,Merchant 107,Food,Kano,Active
+MER00108,Merchant 108,Utilities,Kaduna,Active
+MER00109,Merchant 109,Healthcare,Lagos,Active
+MER00110,Merchant 110,Utilities,Enugu,Active
+MER00111,Merchant 111,Digital Services,Kano,Active
+MER00112,Merchant 112,Retail,Delta,Active
+MER00113,Merchant 113,Food,Oyo,Active
+MER00114,Merchant 114,Retail,Delta,Active
+MER00115,Merchant 115,Digital Services,Rivers,Inactive
+MER00116,Merchant 116,Travel,Kano,Active
+MER00117,Merchant 117,Healthcare,Kaduna,Active
+MER00118,Merchant 118,Digital Services,Kano,Active
+MER00119,Merchant 119,Food,Delta,Active
+MER00120,Merchant 120,Retail,Oyo,Active
+MER00121,Merchant 121,Utilities,Kaduna,Active
+MER00122,Merchant 122,Utilities,Delta,Active
+MER00123,Merchant 123,Digital Services,Oyo,Active
+MER00124,Merchant 124,Digital Services,Abuja,Active
+MER00125,Merchant 125,Travel,Rivers,Inactive
+MER00126,Merchant 126,Digital Services,Kaduna,Active
+MER00127,Merchant 127,Utilities,Delta,Active
+MER00128,Merchant 128,Healthcare,Enugu,Inactive
+MER00129,Merchant 129,Travel,Enugu,Active
+MER00130,Merchant 130,Utilities,Rivers,Active
+MER00131,Merchant 131,Utilities,Kaduna,Active
+MER00132,Merchant 132,Travel,Oyo,Active
+MER00133,Merchant 133,Travel,Rivers,Active
+MER00134,Merchant 134,Utilities,Oyo,Active
+MER00135,Merchant 135,Travel,Lagos,Inactive
+MER00136,Merchant 136,Retail,Enugu,Active
+MER00137,Merchant 137,Digital Services,Enugu,Inactive
+MER00138,Merchant 138,Travel,Kano,Active
+MER00139,Merchant 139,Retail,Lagos,Inactive
+MER00140,Merchant 140,Food,Lagos,Active
+MER00141,Merchant 141,Digital Services,Lagos,Active
+MER00142,Merchant 142,Travel,Kaduna,Active
+MER00143,Merchant 143,Digital Services,Oyo,Active
+MER00144,Merchant 144,Food,Abuja,Active
+MER00145,Merchant 145,Healthcare,Enugu,Inactive
+MER00146,Merchant 146,Utilities,Delta,Active
+MER00147,Merchant 147,Retail,Enugu,Active
+MER00148,Merchant 148,Travel,Abuja,Active
+MER00149,Merchant 149,Digital Services,Kano,Active
+MER00150,Merchant 150,Healthcare,Oyo,Active
